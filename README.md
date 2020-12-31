@@ -1,2 +1,2 @@
-# contador-de-caracteres-digitados-por-segundo
+# Contador-de-caracteres-digitados-por-segundo
 contador de caracteres digitados por segundo
