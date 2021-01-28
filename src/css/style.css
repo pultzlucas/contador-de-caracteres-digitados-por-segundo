@@ -1,0 +1,19 @@
+body
+{
+    background-image: linear-gradient(to left,rgba(255, 137, 137, 0.561), rgba(231, 255, 212, 0.561));
+}
+
+/* display */
+.display
+{
+    font-size: 3rem;
+    text-shadow: 5px 5px 5px #999;
+}
+/* textarea */
+#write_area
+{
+    border-radius: 10px;
+    font-size: 14pt;
+    outline: none;
+    box-shadow: 5px 4px 10px #777;
+}
